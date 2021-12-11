@@ -1,0 +1,2 @@
+CLIENT_SECRET = "3zbasus"
+TEMPLATES_AUTO_RELOAD = "True"
